@@ -632,7 +632,7 @@ CIFAR-100数据集就像CIFAR-10，除了它有100个类，每个类包含600个
 
 ### 4、PaddleClas数据增强代码解析与实战
 
-'''
+```
 class RandFlipImage(object):
     # 随机翻转图片
     def __init__(self, flip_code=1):
@@ -647,9 +647,9 @@ class RandFlipImage(object):
             return cv2.flip(img, self.flip_code)
         else:
             return img
-'''
+```
 
-'''
+```
 class RandCropImage(object):
     # random crop image
     # 随机裁剪图片
@@ -693,7 +693,7 @@ class RandCropImage(object):
             return cv2.resize(img, size)
         else:
             return cv2.resize(img, size, interpolation=self.interpolation)
-'''
+```
 
 ### 5、参考资料
 - [面向初学者的OpenCV-Python教程](http://codec.wang/#/opencv/)
