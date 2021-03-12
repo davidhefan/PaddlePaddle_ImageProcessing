@@ -634,13 +634,7 @@ CIFAR-100数据集就像CIFAR-10，除了它有100个类，每个类包含600个
 
 '''
 class RandFlipImage(object):
-    """ random flip image 随机翻转图片
-        flip_code:
-            1: Flipped Horizontally 水平翻转
-            0: Flipped Vertically 上下翻转
-            -1: Flipped Horizontally & Vertically 水平、上下翻转
-    """
-
+    # 随机翻转图片
     def __init__(self, flip_code=1):
         # 设置一个翻转参数，1、0或-1
         assert flip_code in [-1, 0, 1
@@ -657,9 +651,8 @@ class RandFlipImage(object):
 
 '''
 class RandCropImage(object):
-    """ random crop image """
-    """ 随机裁剪图片 """
-
+    # random crop image
+    # 随机裁剪图片
     def __init__(self, size, scale=None, ratio=None, interpolation=-1):
 
         self.interpolation = interpolation if interpolation >= 0 else None
