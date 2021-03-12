@@ -19,11 +19,11 @@
 ### 1、图像处理的概念与基本操作
 #### 图片、GIF、视频
 
-![](https://ai-studio-static-online.cdn.bcebos.com/e51b24965be04f87a6c4aefff4bcaaf4f629ba9e84514e1095a20f6c9d47b522)
-![](https://ai-studio-static-online.cdn.bcebos.com/0cc0db1f324346f49cc32c10faf7e9f95a28f591163f4494b35e4d67d1130d6a)
-![](https://ai-studio-static-online.cdn.bcebos.com/66d068fd30e449f4ba64fb30692d224b6af91d82b8c5475085a63e2e0001bf2b)
-![](https://ai-studio-static-online.cdn.bcebos.com/dbad81fc63bb42a8bb54369c2a8ccc77c29adda20b1e4aac83a3758dd3086f2e)
-![](https://ai-studio-static-online.cdn.bcebos.com/ea8435831b0f497a869bb52c741de13dd2fd10ed912944db9b3d1798af02b9e2)
+![图1](https://ai-studio-static-online.cdn.bcebos.com/e51b24965be04f87a6c4aefff4bcaaf4f629ba9e84514e1095a20f6c9d47b522 "图1")
+![图2](https://ai-studio-static-online.cdn.bcebos.com/0cc0db1f324346f49cc32c10faf7e9f95a28f591163f4494b35e4d67d1130d6a "图2")
+![图3](https://ai-studio-static-online.cdn.bcebos.com/66d068fd30e449f4ba64fb30692d224b6af91d82b8c5475085a63e2e0001bf2b "图3")
+![图4](https://ai-studio-static-online.cdn.bcebos.com/dbad81fc63bb42a8bb54369c2a8ccc77c29adda20b1e4aac83a3758dd3086f2e "图4")
+![图5](https://ai-studio-static-online.cdn.bcebos.com/ea8435831b0f497a869bb52c741de13dd2fd10ed912944db9b3d1798af02b9e2 "图5")
 
 [趣味视频项目](https://aistudio.baidu.com/aistudio/projectdetail/1176901?channelType=0&channel=0)
 
