@@ -7,6 +7,8 @@
   二级标题
 ## 2021年3月
 
+[百度飞桨领航团图像分类零基础速成营](https://aistudio.baidu.com/aistudio/course/introduce/11939?directly=1&shared=1)
+
 [^_^]:
   三级级标题
 ### 课程大纲
